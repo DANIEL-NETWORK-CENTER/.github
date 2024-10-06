@@ -16,6 +16,13 @@ Wir richten uns an Unternehmen, Start-ups und Einzelpersonen, die Unterstützung
 - **Strategische Planung**: Entwicklung maßgeschneiderter Strategien zur Realisierung von Projektzielen.
 - **Ressourcenmanagement**: Effiziente Verwaltung und Verteilung von Ressourcen.
 
+### 🌈 Vielfältige Projektpalette
+DNC arbeitet an einer breiten Palette von Projekten, darunter:
+- **Game-Projekte**: Entwicklung von Videospielen, von Konzept bis Umsetzung.
+- **Film- und Animationsprojekte**: Produktion von Kurzfilmen, Animationsfilmen und anderen kreativen Inhalten.
+- **Web- und App-Entwicklung**: Erstellung benutzerfreundlicher Websites und mobiler Anwendungen.
+- **Bildungsprojekte**: Entwicklung von Lernmaterialien und Plattformen für Bildungseinrichtungen.
+
 ### 🌐 Marktfokus
 DNC konzentriert sich auf verschiedene Branchen, darunter Technologie, Unterhaltung, Bildung und mehr, um vielfältige Projekte zu realisieren.
 
