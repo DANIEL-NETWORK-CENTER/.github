@@ -9,6 +9,9 @@
 ### 🎯 Zielgruppe
 Wir richten uns an **Unternehmen, Start-ups und Einzelpersonen**, die Unterstützung bei der Entwicklung und Umsetzung ihrer Projekte suchen.
 
+### 🤝 Community-Engagement
+Bei **DANIEL NETWORK CENTER** legen wir großen Wert auf die Zusammenarbeit mit der **Community**. Viele unserer Projekte beziehen die Community aktiv ein, um Ideen zu sammeln, Feedback zu erhalten und gemeinsam an Lösungen zu arbeiten.
+
 ### 💼 Angebotene Dienstleistungen
 - **Übernahme von Projekten**: Wir übernehmen bestehende Projekte, um deren Erfolg zu sichern und weiterzuentwickeln.
 - **Projektentwicklung**: Wir entwickeln innovative Projekte von Grund auf.
